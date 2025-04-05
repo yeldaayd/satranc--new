@@ -1,0 +1,40 @@
+c:\users\engin\documents\visual studio 2012\Projects\KitapYardimciKodlar\SatrancOOP\bin\Debug\SatrancOOP.exe.config
+c:\users\engin\documents\visual studio 2012\Projects\KitapYardimciKodlar\SatrancOOP\obj\Debug\SatrancOOP.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2012\Projects\KitapYardimciKodlar\SatrancOOP\bin\Debug\SatrancOOP.exe
+c:\users\engin\documents\visual studio 2012\Projects\KitapYardimciKodlar\SatrancOOP\bin\Debug\SatrancOOP.pdb
+c:\users\engin\documents\visual studio 2012\Projects\KitapYardimciKodlar\SatrancOOP\obj\Debug\SatrancOOP.exe
+c:\users\engin\documents\visual studio 2012\Projects\KitapYardimciKodlar\SatrancOOP\obj\Debug\SatrancOOP.pdb
+D:\KitapYardimciKodlar\SatrancOOP\obj\Debug\SatrancOOP.pdb
+D:\KitapYardimciKodlar\SatrancOOP\bin\Debug\SatrancOOP.dll.config
+D:\KitapYardimciKodlar\SatrancOOP\bin\Debug\SatrancOOP.dll
+D:\KitapYardimciKodlar\SatrancOOP\bin\Debug\SatrancOOP.pdb
+D:\KitapYardimciKodlar\SatrancOOP\obj\Debug\SatrancOOP.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOP\bin\Debug\SatrancOOP.dll.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOP\bin\Debug\SatrancOOP.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOP\bin\Debug\SatrancOOP.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOP\obj\Debug\SatrancOOP.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOP\obj\Debug\SatrancOOP.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancOOP\bin\Debug\SatrancOOP.dll.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancOOP\bin\Debug\SatrancOOP.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancOOP\bin\Debug\SatrancOOP.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancOOP\obj\Debug\SatrancOOP.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancOOP\obj\Debug\SatrancOOP.pdb
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\bin\Debug\SatrancOOP.dll.config
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\bin\Debug\SatrancOOP.dll
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\bin\Debug\SatrancOOP.pdb
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\obj\Debug\SatrancOOP.csprojResolveAssemblyReference.cache
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\obj\Debug\SatrancOOP.dll
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\obj\Debug\SatrancOOP.pdb
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\bin\Debug\SatrancOOP.dll.config
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\bin\Debug\SatrancOOP.dll
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\bin\Debug\SatrancOOP.pdb
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\obj\Debug\SatrancOOP.csprojResolveAssemblyReference.cache
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\obj\Debug\SatrancOOP.dll
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancOOP\obj\Debug\SatrancOOP.pdb
+C:\Users\PC\Downloads\satranç\SatrancOOP\bin\Debug\SatrancOOP.dll.config
+C:\Users\PC\Downloads\satranç\SatrancOOP\bin\Debug\SatrancOOP.dll
+C:\Users\PC\Downloads\satranç\SatrancOOP\bin\Debug\SatrancOOP.pdb
+C:\Users\PC\Downloads\satranç\SatrancOOP\obj\Debug\SatrancOOP.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\satranç\SatrancOOP\obj\Debug\SatrancOOP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\satranç\SatrancOOP\obj\Debug\SatrancOOP.dll
+C:\Users\PC\Downloads\satranç\SatrancOOP\obj\Debug\SatrancOOP.pdb

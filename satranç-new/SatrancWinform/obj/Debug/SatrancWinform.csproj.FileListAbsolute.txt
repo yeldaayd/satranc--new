@@ -1,0 +1,61 @@
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.pdb
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancOOP.dll
+D:\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancOOP.pdb
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.exe
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.pdb
+D:\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancOOP.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancOOP.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.exe
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.pdb
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.exe
+C:\engin\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SatrancWinform\obj\Debug\SatrancWinform.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancWinform.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancWinform.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancOOP.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\bin\Debug\SatrancOOP.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.exe
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 2\Satranc\SatrancWinform\obj\Debug\SatrancWinform.pdb
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.exe
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.pdb
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancWinform.exe
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancWinform.pdb
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancOOP.dll
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancOOP.pdb
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+D:\DriveGoogle\dersler\2018-2019 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancWinform.exe.config
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.exe
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.pdb
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancWinform.exe
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancWinform.pdb
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancOOP.dll
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\bin\Debug\SatrancOOP.pdb
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.csprojResolveAssemblyReference.cache
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.FrmMain.resources
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.Properties.Resources.resources
+D:\DriveGoogle\dersler\2019-2020 Bahar\BSM2002_Nesne Yönelimli Programlama\k-tasarim-desenleri-ve-mimarileri-2.bsk\Kodlar - C#\Kitap C# Kodlar\Bölüm 2\SatrancWinform\obj\Debug\SatrancWinform.csproj.GenerateResource.Cache
